@@ -155,6 +155,6 @@
         "vscode": "^1.1.37"
     },
     "dependencies": {
-        "iconv-lite": "^0.5.2"
+        "iconv-lite": "^0.6.2"
     }
 }
